@@ -161,7 +161,7 @@ pAUC는 ROC 곡선의 특정 부분, 즉 TPR(참 양성 비율)이 80% 이상인
 
 점수는 [0.0, 0.2] 범위 내에서 주어지며, TPR 80% 이상에서의 분류 성능을 강조한다. Image에서 파란색과 빨간색 영역이 각각 두 Algorithm의 pAUC를 나타낸다. 
 
-![image](https://github.com/user-attachments/assets/ae199c45-0137-4efd-ad6d-a48757546501)
+<img width="800" height="400" src="https://github.com/user-attachments/assets/ae199c45-0137-4efd-ad6d-a48757546501">
 
 ### **Submission**
 
